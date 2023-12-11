@@ -1,5 +1,5 @@
 Assignment Goal:
-This was code written for an assignment given to me in my Object Oriented Systems class. The goal was to use the state design pattern to simulate an elevator. The code handles user input 
+This maven project was written for an assignment given to me in my Object Oriented Systems class. The goal was to use the state design pattern to simulate an elevator. The code handles user input 
 as buttons on an elevator. A user selects a number representing the floor they would like to go to and the approproate actions and state changes are then made. 
 
 Assignment thoughts / reflection: 
