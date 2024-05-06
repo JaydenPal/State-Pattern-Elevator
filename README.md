@@ -1,4 +1,6 @@
 # Description
+Code located at:  src/main/java/
+
 This maven project was written for an assignment given to me in my Object Oriented Systems class. 
 The goal was to use the state design pattern to simulate an elevator. The code handles user input
 as buttons on an elevator. A user selects a number representing the floor they would like to go to
