@@ -4,6 +4,8 @@ The goal was to use the state design pattern to simulate an elevator. The code h
 as buttons on an elevator. A user selects a number representing the floor they would like to go to
 and the approproate actions and state changes are then made. 
 
+Also included is a simple UML diagram of the project.
+
 # Reflection
 This code is only meant to handle the pressing of a single button at a time so buttons arent queued
 up as they are pressed. The reason for this was that it was simply beyond the scope of the assignment
